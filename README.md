@@ -14,12 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### < Hello World /> 👋
 
 - 📫 Reach me @ 
 [![Linkedin](https://img.shields.io/badge/-satheshnarayanan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/satheshnarayanan/)](https://www.linkedin.com/in/satheshnarayanan/)
-[![GitHub followers](https://img.shields.io/github/followers/satheshnarayananan?label=Follow&style=social)](https://github.com/satheshnarayananan/?tab=follow)
-
 
 - 🔭 I’m currently working on @RamcoSystems
 
